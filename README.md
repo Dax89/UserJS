@@ -6,8 +6,8 @@ A small JavaScript framework for Web Browsers in order to bypass AdBlock detecto
 # Structure
 The Framework consists in a single core library called "UserJS" and two "extension scripts":
 * UserJS: Core library
-* AdBlock Stealth: Hide AdBlock from websites
-* Ads Killer: Remove/Bypass website annoyances (banner, paywalls, watermarks, ...)
+* ADBStealth: Hide AdBlock from websites
+* ADKiller: Remove/Bypass website annoyances (banner, paywalls, watermarks, ...)
 
 # License
 All files in this repository are released under MIT Licence.

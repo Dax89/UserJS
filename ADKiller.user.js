@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Ads Killer
+// @name         ADKiller
 // @version      2.5
 // @description  Bypass PayWalls, Ads an more
 // @author       Dax

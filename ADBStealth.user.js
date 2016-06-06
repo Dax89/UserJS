@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AdBlock Stealth
+// @name         ADBStealth
 // @version      2.1.1
 // @description  Hide AdBlock from websites
 // @author       Dax
